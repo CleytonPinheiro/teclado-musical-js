@@ -12,7 +12,7 @@
 
 ## Screenshots
 
-<img src="C:\Users\" style="height: 300px; width:750px;"/>
+<img src="./prints/teclado.png" style="height: 300px; width:750px;"/>
 
 
 
